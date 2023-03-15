@@ -12,6 +12,7 @@
     },
     "rules": {
         "linebreak-style": "off",
-        "import/no-extraneous-dependencies": "off"
+        "import/no-extraneous-dependencies": "off",
+        "no-template-curly-in-string":"off"
     }
 }
